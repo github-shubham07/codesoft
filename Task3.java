@@ -44,7 +44,7 @@ class Function implements Bank {
     } 
 }
 
-public class Task2{
+public class Task3{
     public static void main(String[] args) throws InterruptedException {
         Function get = new Function();
         get.DefaultBalance();
